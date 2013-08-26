@@ -3,7 +3,7 @@
 
 Type checking from node core.
 
-This basically is [core-util-js](https://github.com/isaacs/core-util-is)
+This basically is [core-util-is](https://github.com/isaacs/core-util-is)
 but with a nicer api.
 
 ## Example
