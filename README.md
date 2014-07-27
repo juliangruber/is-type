@@ -6,6 +6,8 @@ Type checking from node core.
 This basically is [core-util-is](https://github.com/isaacs/core-util-is)
 but with a nicer api.
 
+[![downloads](https://img.shields.io/npm/dm/is-type.svg)](https://www.npmjs.org/package/is-type)
+
 ## Example
 
 ```js
