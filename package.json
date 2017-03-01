@@ -9,7 +9,7 @@
   "homepage": "https://github.com/juliangruber/is-type",
   "main": "index.js",
   "dependencies": {
-    "core-util-is": "~1.0.0"
+    "core-util-is": "~1.0.2"
   },
   "keywords": [
     "type",
